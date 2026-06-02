@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "wpf/1.0.0": {
+      "LauncherIMB/1.0.0": {
         "dependencies": {
           "PropertyChanged.Fody": "4.1.0"
         },
         "runtime": {
-          "wpf.dll": {}
+          "LauncherIMB.dll": {}
         }
       },
       "Fody/6.6.4": {},
@@ -23,7 +23,7 @@
     }
   },
   "libraries": {
-    "wpf/1.0.0": {
+    "LauncherIMB/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
